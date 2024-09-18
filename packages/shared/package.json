@@ -1,0 +1,11 @@
+{
+    "name": "@mspbots/shared",
+    "version": "0.0.1",
+    "private": true,
+    "type": "module",
+    "sideEffects": false,
+    "main": "index.ts",
+    "publishConfig": {
+        "access": "public"
+    }
+}
