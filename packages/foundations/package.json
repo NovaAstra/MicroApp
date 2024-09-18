@@ -4,10 +4,6 @@
     "private": true,
     "type": "module",
     "sideEffects": false,
-    "main": "index.scss",
-    "scripts": {
-        "build": "sass --no-source-map --load-path=node_modules/ --load-path=../../node_modules/ build/scss/:build/css/ --future-deprecation=import"
-    },
     "publishConfig": {
         "access": "public"
     },
