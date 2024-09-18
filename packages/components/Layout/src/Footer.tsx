@@ -1,6 +1,6 @@
 import { defineComponent } from "vue"
 
-import { bem } from "../layout.data"
+import { bem } from "./layout.data"
 
 const { name, n } = bem
 
